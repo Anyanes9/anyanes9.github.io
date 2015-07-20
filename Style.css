@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Amaranth:400,400italic);
+body {
+  background-color: yellow;
+  font-family: Amaranth;
+  margin: 15px;
+  padding: 20px;
+  border: 15px solid blue; 
+}
+
+
+h1 {
+  text-align: center;
+  color: blue;
+}
+img {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
